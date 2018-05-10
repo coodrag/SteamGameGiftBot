@@ -1,6 +1,6 @@
 # SteamGameGiftBot
 
-An auto send game to friends steam bot
+A steam bot that auto send game to friends 
 
 一个自动发送游戏给好友的steam 机器人
 
